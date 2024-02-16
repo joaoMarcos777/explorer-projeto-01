@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">Custom Furniture</h1>
-<p>
-  <a href="https://www.npmjs.com/package/explorer-projeto-01t" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/explorer-projeto-01.svg">
-  </a>
-</p>
 
 > A custom furniture website landing page
 
