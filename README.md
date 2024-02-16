@@ -4,8 +4,8 @@
 
 <h1 align="center">Custom Furniture</h1>
 <p>
-  <a href="https://www.npmjs.com/package/todo-list" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/todo-list.svg">
+  <a href="https://www.npmjs.com/package/explorer-projeto-01t" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/explorer-projeto-01.svg">
   </a>
 </p>
 
